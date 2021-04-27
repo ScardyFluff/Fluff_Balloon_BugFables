@@ -1,0 +1,7 @@
+
+// -- Basic
+
+charset,UTF-8
+type,balloon
+name,Bug Fables Balloon
+directory,fluff_bugfables
