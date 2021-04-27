@@ -1,13 +1,9 @@
-
-// -- Text Locations
-
+//Text Locations
 origin.x,32
 origin.y,23
-
 validrect.left,32
 validrect.top,23
 validrect.right,369
 validrect.bottom,106
-
 wordwrappoint.x,369
 wordwrappoint.y,106
