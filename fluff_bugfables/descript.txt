@@ -3,7 +3,7 @@ charset,UTF-8
 type,balloon
 name,Bug Fables
 craftman,ScardyFluff
-craftmanurl,
+craftmanurl,https://scardyfluff.github.io/Ukagaka-Fluff/
 
 //PNA Disabler
 use_self_alpha,1
