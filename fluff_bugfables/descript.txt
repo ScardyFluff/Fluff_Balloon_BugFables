@@ -3,10 +3,11 @@
 
 charset,UTF-8
 type,balloon
-name,Bug Fables Balloon
+name,Bug Fables
 craftman,ScardyFluff
 craftmanurl,
-//homeurl,http://www.yourwebspace.com/yourballoondirectory/
+homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_BugFables/main/fluff_bugfables/
+
 
 
 // -- PNA Disabler
