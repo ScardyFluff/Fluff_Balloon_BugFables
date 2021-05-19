@@ -12,4 +12,5 @@ Link to Font: https://fonts.google.com/specimen/Bubblegum+Sans
   - Added link to font in Readme
 
  Version 1.0.2 (5/19/2021)
-  - Added link to my site!
+  - Added link to my site
+  - Added "Address" box
