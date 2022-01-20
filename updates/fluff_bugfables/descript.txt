@@ -4,7 +4,7 @@ type,balloon
 name,Bug Fables
 craftman,ScardyFluff
 craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
-homeurl,https://github.com/ScardyFluff/Fluff_Balloon_BugFables/raw/main/updates/fluff_bugfables/
+homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_BugFables/master/updates/fluff_bugfables/
 
 
 //PNA Disabler
