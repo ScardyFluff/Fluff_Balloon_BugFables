@@ -17,3 +17,4 @@ Link to Font: https://fonts.google.com/specimen/Bubblegum+Sans
  Version 1.0.3 (1/20/2022)
   - Fixed inconsistencies with Github version.
   - Added "use_input_alpha".
+  - Added Homeurl link.
