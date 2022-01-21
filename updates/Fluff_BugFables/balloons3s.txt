@@ -1,0 +1,24 @@
+//Text Locations
+origin.x,32
+origin.y,24
+validrect.left,32
+validrect.top,24
+validrect.right,369
+validrect.bottom,373
+wordwrappoint.x,369
+wordwrappoint.y,373
+
+
+//Image Markers
+arrow0.x,377
+arrow0.y,19
+arrow1.x,377
+arrow1.y,359
+onlinemarker.x,69
+onlinemarker.y,382
+sstpmarker.x,219
+sstpmarker.y,377
+sstpmessage.x,248
+sstpmessage.y,376
+number.xr,123
+number.y,12
